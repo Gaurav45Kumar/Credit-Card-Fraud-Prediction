@@ -38,9 +38,4 @@ The project uses a credit card transaction dataset containing:
 - **Class 0**: 284,315 legitimate transactions
 - **Class 1**: 492 fraudulent transactions
 
-## 🚀 Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
-   cd credit-card-fraud-detection
+**Link** - https://colab.research.google.com/drive/1X84hxKPoIqv9AOo6lcWbk6F5rSZkU7uc#scrollTo=tryJUs6mbJM7
